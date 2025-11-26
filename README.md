@@ -1,9 +1,11 @@
-# 🎮 AI Game Localizer (V1 Complete Suite)
+# 🎮 AI Game Localizer Prototype
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![AI](https://img.shields.io/badge/AI-Offline%20%26%20Secure-orange) ![GPU](https://img.shields.io/badge/Hardware-CUDA%20Accelerated-76b900)
 
 **AI Game Localizer** è una suite open-source per la traduzione automatica di file di localizzazione videogiochi (CSV, Excel).
 Lavora **completamente offline** (senza API costose) e garantisce l'integrità del codice di gioco tramite la gestione delle variabili in stringa.
+
+Il progetto è attualmente in sviluppo ed è solo un prototipo, quindi aspettatevi bugs e problemi.
 ---
 
 ## ✨ Funzionalità Principali
