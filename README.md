@@ -62,7 +62,7 @@ python AI_Localizer_V1_Complete.py
 
     Avvia: Lancia il processo.
 
-2. Scheda "Gestione Variabili" (Novità V14.1)
+2. Scheda "Gestione Variabili"
 
     Qui puoi vedere le regole Regex attive che proteggono il codice.
 
